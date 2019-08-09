@@ -4,7 +4,7 @@
 
 
 **Project Details:**
-This is the repository for group project of #sg_wonder_vision Face Detection team in Secure and Private AI Scholarship Challenge from Facebook | Udacity.
+
   
 
 
