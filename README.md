@@ -49,8 +49,8 @@
 
 
 ## To Do:
-- [x] finalize date/time for **Virtual Meetups**.
-- [x] finalize Dataset to be used.
+- [x] Finalize date/time for **Virtual Meetups**.
+- [x] Finalize Dataset to be used.
 - [ ] TO- DO till next meeting:
 - Start testing on the Kaggle data.  
 - Check out different tutorials.
