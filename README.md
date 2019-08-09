@@ -1,4 +1,5 @@
 
+
 # Project : Face Detection
 
 ## Study Group : #sg_wonder_vision
@@ -37,11 +38,11 @@
 *Virtual meetups scheduled every Monday and Saturday following timings:*
 
 **Monday** 
- - **IST: 7:00 PM**
- - **GMT: 1:30 PM**
- - **PDT: 6:30 AM**
--  **EDT: 9:30 AM**
-- 
+ - **07:00 PM  IST**
+ - **01:30 PM GMT**
+ - **06:30 AM PDT**
+-  **09:30 AM EDT**
+
 **Saturday** 
  - **07:00 PM GMT**  
 - **12:30 AM IST**  
