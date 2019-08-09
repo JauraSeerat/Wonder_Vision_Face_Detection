@@ -10,7 +10,7 @@
 - [Face Detection in Images](https://www.kaggle.com/dataturks/face-detection-in-images)
 ([Getting images with requests](https://www.kaggle.com/volkankalin/getting-images-with-requests/notebook))
 
-##  Contributors:
+**Contributors:**
 - Seeratpal K. Jaura  (@Seeratpal K. Jaura) 
 - Sourav Das (@Sourav) 
 - 
