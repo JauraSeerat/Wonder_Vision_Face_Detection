@@ -1,5 +1,6 @@
 
 
+
 # Project : Face Detection
 
 
@@ -17,6 +18,8 @@
 - Seeratpal K. Jaura  (@Seeratpal K. Jaura) 
 - Sourav Das (@Sourav) 
 - 
+-
+-
 
 ## Getting Started:
 [](https://colab.research.google.com/)
@@ -27,8 +30,8 @@
 
 ## Resources
 - [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/) - Suggested by @Agata [OR, USA] 
--
--
+- [Face detection with OpenCV and deep learning](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/) Shared by @Abhishek Tandon
+- [Face Detection - OpenCV, Dlib and Deep Learning](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/) Shared by @Abhishek Tandon
 -
 -
 
