@@ -54,11 +54,27 @@
 ## To Do:
 - [x] Finalize date/time for **Virtual Meetups**.
 - [x] Finalize Dataset to be used.
-- [ ] TO- DO till next meeting:
-- Start testing on the Kaggle data.  
-- Check out different tutorials.
-- Discuss various approaches for the project.
+- [x] Start testing on the Kaggle data.  
+- [x] Check out different tutorials.
+- [x] Discuss various approaches for the project.
+- **TO- DO till next meeting:**
+- [ ] Check out resources for the different use cases which would be feasible for project showcase.  
+- [ ] Start data preparation and complete it by 12th August.  
+- [ ] Vote on the polls.
+
+
+**Agenda for next meeting:**
+- [ ] Discuss about the teams as formed through the poll.  
+- [ ] Discuss about the use case decided though the pool.
+
+
 
 ## [Meetups Updates](https://docs.google.com/document/d/1bwPe_K4xh2Awk_72c1o9JmxKXtl661ko203j7e2_VpM/edit?usp=sharing)
 
 
+**Project deadlines**
+
+- **Data Preparation** — **12th August**
+-  Face Detection[Model Preparation] — 14th August
+- Use Case development — 17th August
+-  Project Deployment — 19th August
