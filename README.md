@@ -1,7 +1,3 @@
-
-
-
-
 # Project : Face Detection
 
 
@@ -26,7 +22,7 @@
 [](https://colab.research.google.com/)
 
 -  [Google Colab](https://colab.research.google.com/)
-
+- [Import data into Google Colaboratory](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)
 
 
 ## Resources
@@ -36,7 +32,7 @@
 - [Face detection using OpenCV and Python: A beginner's guide](https://www.superdatascience.com/blogs/opencv-face-detection) Suggested by @Seeratpal K. Jaura
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) - Suggested by @Agata [OR, USA] 
 - [OpenFace - Free and open source face recognition with deep neural networks](https://cmusatyalab.github.io/openface/)- Suggested by @Agata [OR, USA] 
-- **PAPER** [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf)- Suggested by @Agata [OR, USA]
+-  [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf)- **PAPER** Suggested by @Agata [OR, USA]
 
 ## Meetups:
 *Virtual meetups scheduled every Monday and Saturday following timings:*
