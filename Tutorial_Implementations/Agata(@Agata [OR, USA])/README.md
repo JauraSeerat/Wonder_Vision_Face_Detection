@@ -1,5 +1,5 @@
 # OpenCV Face Recognition
-Object detection projest is a part of **Facebook Secure and Private AI Challenge** organized by Facebook and Udacity.
+Object detection project is a part of **Facebook Secure and Private AI Challenge** organized by Facebook and Udacity.
 
 Implementation is based on [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/). Script is able to:
 - Detect faces
