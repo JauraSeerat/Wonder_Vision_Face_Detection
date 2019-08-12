@@ -17,7 +17,7 @@
 ##  Contributors:
 - Seeratpal K. Jaura  (@Seeratpal K. Jaura) 
 - Sourav Das (@Sourav) 
-- Agata Gruza ( @Agata [OR, USA])
+- Agata Gruza (@Agata [OR, USA])
 -
 -
 
