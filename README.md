@@ -15,7 +15,7 @@
 - Seeratpal K. Jaura  (@Seeratpal K. Jaura) 
 - Sourav Das (@Sourav) 
 - Agata Gruza (@Agata [OR, USA])
--
+- Ruesh Purum (@Rupesh Purum )
 -
 
 ## Getting Started:
