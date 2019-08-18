@@ -3,77 +3,65 @@
 
   ## Study Group : #sg_wonder_vision
      This is the repository for group project of #sg_wonder_vision Face Detection team
-     in Secure and Private AI Scholarship Challenge from Facebook | Udacity
+     in Secure and Private AI Scholarship Challenge from Facebook | Udacity.
+     In this project, one-shot learning with Siamese Network is implemented using PyTorch.
 
+
+## Getting Started
+
+This project use Siamese network which is a special type of neural network and it is one of simplest and most popularly used one-shot algorithm. We create the Siamese network by building face recognition model. The objective of  this network is to understand whether two faces are similar or disimilar.  
 
 **Project Dataset**
-- [Face Detection in Images](https://www.kaggle.com/dataturks/face-detection-in-images)
-([Getting images with requests](https://www.kaggle.com/volkankalin/getting-images-with-requests/notebook))
+- For this project, we use the AT&T Database of Faces, which can be downloaded from [here](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html). Once you have downloaded and extracted the archieve, it will show s1-s40 folders and each having 10 different images per person.
+You can use any dataset. Each class must be in its own folder.
+
+
+### Dependencies
+
+This require PyTorch v0.4 or newer, and torchvision. The easiest way to install PyTorch and torchvision locally is by following the instructions on the [PyTorch site](https://pytorch.org/get-started/locally/). You'll also need to install numpy and jupyter notebooks, the newest versions of these should work fine.Using the conda package manager is generally best for this,
+```
+conda install numpy jupyter notebook
+```
+If you haven't used conda before, please [read the documentation](https://conda.io/en/latest/) to learn how to create environments and install packages. 
+
+*If you don't want to download these dependencies locally*, you can follow up alternative [Google Colab](https://colab.research.google.com/)
+
+## Demonstration of face detection project
+-You tube link needs to be included here
+
+
+## Tutorial:
+
+###### What is Siamese Network?
+Siamese Network is a special type of neural network and it is one of the popularly used one-shot learning algorithms. One-shot learning is a technique where model learn from one training example per class.
+![siamese network](https://github.com/JauraSeerat/Wonder_Vision_Face_Detection/blob/master/Siamese%20network.jpg)
+
+###### Why we use Siamese Network?
+Since our team is  working on face recognition project so we think of broader perspective while selecting model. We want to work on such a model which can be used in a big organization. Let's say an organization have 500 people for training network. If we build this using CNN, then we need many images of all 500 people for training. But apparently, we don't have so many images, so it is best to use one-shot learning algorithm such as Siamese network which can learn from fewer data points.
+
+To learn more about Siamese Network that how does it work, follow up this [tutorial](https://medium.com/swlh/advance-ai-face-recognition-using-siamese-networks-219ee1a85cd5)
+
+
+## Future Plans
+We built an application(which detect if two persons are similar or disimilar and how much disimilarity they have) using siamese network. Our next step is to deploy this model. We will deploy our application in coming days.
 
 
 ##  Contributors:
+- Abhishek Tandon (@Abhishek Tandon )
+- Alejandro Galindo (@Alejandro Galindo )
 - Seeratpal K. Jaura  (@Seeratpal K. Jaura) 
 - Sourav Das (@Sourav) 
 - Agata Gruza (@Agata [OR, USA])
 - Rupesh Purum (@Rupesh Purum )
--
+- Joyce Obi (@Joyce Obi)
 
-## Getting Started:
-[](https://colab.research.google.com/)
-
--  [Google Colab](https://colab.research.google.com/)
-- [Import data into Google Colaboratory](https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory)
-
-
-## Resources
+## References
+- [Face recognition using Siamese Network](https://medium.com/swlh/advance-ai-face-recognition-using-siamese-networks-219ee1a85cd5)- Suggested by @Abhishek Tandon
 - [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/) - Suggested by @Agata [OR, USA] 
-- [Face detection with OpenCV and deep learning](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/) Suggested by @Abhishek Tandon
-- [Face Detection - OpenCV, Dlib and Deep Learning](https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/) Suggested by @Abhishek Tandon
 - [Face detection using OpenCV and Python: A beginner's guide](https://www.superdatascience.com/blogs/opencv-face-detection) Suggested by @Seeratpal K. Jaura
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) - Suggested by @Agata [OR, USA] 
-- [OpenFace - Free and open source face recognition with deep neural networks](https://cmusatyalab.github.io/openface/)- Suggested by @Agata [OR, USA] 
--  [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf)- **PAPER** Suggested by @Agata [OR, USA]
-
-## Meetups:
-*Virtual meetups scheduled every Monday and Saturday following timings:*
-
-**Monday** 
- - **07:00 PM  IST**
- - **01:30 PM GMT**
- - **06:30 AM PDT**
--  **09:30 AM EDT**
-
-**Saturday** 
- - **07:00 PM GMT**  
-- **12:30 AM IST**  
-- **12:00 PM PDT**  
-- **03:00 PM EDT**
-
-
-## To Do:
-- [x] Finalize date/time for **Virtual Meetups**.
-- [x] Finalize Dataset to be used.
-- [x] Start testing on the Kaggle data.  
-- [x] Check out different tutorials.
-- [x] Discuss various approaches for the project.
-- **TO- DO till next meeting:**
-- [ ] Check out resources for the different use cases which would be feasible for project showcase.  
-- [ ] Start data preparation and complete it by 12th August.  
-- [ ] Vote on the polls.
-
-
-**Agenda for next meeting:**
-- [ ] Discuss about the teams as formed through the poll.  
-- [ ] Discuss about the use case decided though the pool.
-
+-[Siamese Network](https://innovationincubator.com/siamese-neural-network-with-pytorch-code-example/) - Suggested by @Alejandro Galindo
 
 
 ## [Meetups Updates](https://docs.google.com/document/d/1bwPe_K4xh2Awk_72c1o9JmxKXtl661ko203j7e2_VpM/edit?usp=sharing)
 
-
-**Project deadlines**
-
-- **Data Preparation** — **12th August**
--  Face Detection[Model Preparation] — 14th August
-- Use Case development — 17th August
--  Project Deployment — 19th August
