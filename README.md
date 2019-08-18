@@ -60,7 +60,7 @@ We built an application(which detect if two persons are similar or disimilar and
 - [OpenCV Face Recognition](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/) - Suggested by @Agata [OR, USA] 
 - [Face detection using OpenCV and Python: A beginner's guide](https://www.superdatascience.com/blogs/opencv-face-detection) Suggested by @Seeratpal K. Jaura
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) - Suggested by @Agata [OR, USA] 
--[Siamese Network](https://innovationincubator.com/siamese-neural-network-with-pytorch-code-example/) - Suggested by @Alejandro Galindo
+- [Siamese Network](https://innovationincubator.com/siamese-neural-network-with-pytorch-code-example/) - Suggested by @Alejandro Galindo
 
 
 ## [Meetups Updates](https://docs.google.com/document/d/1bwPe_K4xh2Awk_72c1o9JmxKXtl661ko203j7e2_VpM/edit?usp=sharing)
