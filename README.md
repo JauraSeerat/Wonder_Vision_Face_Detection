@@ -12,7 +12,7 @@ As face detection has wide range of domain. It is used in various areas like  se
 
 ## Getting Started
 
-This project use Siamese network which is a special type of neural network and it is one of simplest and most popularly used one-shot algorithm. We create the Siamese network by building face recognition model. *The objective of  this network is to understand whether two faces are similar or dissimilar.* 
+This project use Siamese network which is a special type of neural network and it is one of simplest and most popularly used one-shot algorithm. We create the Siamese network by building face recognition model. *The objective of  this network is to understand whether two faces are similar or dissimilar and provides the similarity score for two images.* 
 
 **Project Dataset**
 - For this project, we use the AT&T Database of Faces, which can be downloaded from [here](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html). Once you have downloaded and extracted the archieve, it will show s1-s40 folders and each having 10 different images per person.
@@ -31,6 +31,7 @@ If you haven't used conda before, please [read the documentation](https://conda.
 
 ## Demonstration of face detection project
 -You tube link needs to be included here
+The demo shown here will depict the similarity score between two images.
 
 ## Applications of our model:
 - We often noticed that apple has apple face id (face recognition) which is being used as privacy protector to preserve the data of an individual: unlock phones
@@ -47,6 +48,7 @@ Achieved by using **Siamese Network based on PyTorch**
 
 ###### What is Siamese Network?
 Siamese Network is a special type of neural network and it is one of the popularly used one-shot learning algorithms. One-shot learning is a technique where model learn from one training example per class.
+
 ![siamese network](https://github.com/JauraSeerat/Wonder_Vision_Face_Detection/blob/master/Siamese%20network.jpg)
 
 ###### Why we use Siamese Network?
