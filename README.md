@@ -73,7 +73,7 @@ Achieved by using **openCV and Python**
 
 Our base application is ready and working and now we'll be working on this project to take it further and deploy it. 
 
-### Gathering Metrics using differential privacy
+### Gathering Metrics using Differential Privacy
 
 This application would allow to track students as they access the online course platform, enabling to gather metrics such as student attentiveness. These metrics would then be passed back to the course platform administrators. These metrics can be used to redesign course material so that it is better suited to students, providing a more of a 'personalized ecucation'. 
 
