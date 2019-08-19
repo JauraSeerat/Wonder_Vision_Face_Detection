@@ -5,10 +5,12 @@
      This is the repository for group project of #sg_wonder_vision Face Detection team
      in Secure and Private AI Scholarship Challenge from Facebook | Udacity.
      In this project, one-shot learning with Siamese Network is implemented using PyTorch.
+     
 
 ## Objectives 
 
 The objective of the project is to calculate the similarity between two facial images. We forseee this application being used for recognizing known faces like in a visual attendnce system or as a face based login.
+
 
 ## Getting Started
 
@@ -29,7 +31,8 @@ If you haven't used conda before, please [read the documentation](https://conda.
 
 *If you don't want to download these dependencies locally*, you can follow up alternative [Google Colab](https://colab.research.google.com/)
 
-## Demonstration of face detection project
+## Demonstration of face detection project 
+[Project.ipynb]
 
 <img src="https://github.com/JauraSeerat/Wonder_Vision_Face_Detection/blob/master/assets/code4.gif" alt="Project GIF">
 
@@ -42,9 +45,10 @@ The application would work as a visual attendance/login system allowing it to -
 * Allowing students to use their face for logging in to online course platforms, such as Udacity.
 
 
+
 ## Implementations:
 
-### 1.Face Recognition 
+### 1.Face Recognition [Project.ipynb]
 Achieved by using **Siamese Network based on PyTorch**
 - This implementation quantifies the similarity between two faces.
 
