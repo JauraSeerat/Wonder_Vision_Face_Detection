@@ -48,7 +48,7 @@ The application would work as a visual attendance/login system allowing it to -
 
 ## Implementations:
 
-### 1.Face Recognition [Project.ipynb]
+### 1.Face Recognition
 Achieved by using **Siamese Network based on PyTorch**
 - This implementation quantifies the similarity between two faces.
 
