@@ -27,10 +27,11 @@ conda install numpy jupyter notebook
 ```
 If you haven't used conda before, please [read the documentation](https://conda.io/en/latest/) to learn how to create environments and install packages. 
 
-*If you don't want to download these dependencies locally*, you can follow up alternative [Google Colab](https://colab.research.google.com/)
+*If you don't want to download these dependencies locally*, you can follow up an alternative [Google Colab](https://colab.research.google.com/)
 
 ## Demonstration of face detection project
 -You tube link needs to be included here
+
 The demo shown here will depict the similarity score between two images.
 
 ## Applications of our model:
@@ -41,7 +42,7 @@ The demo shown here will depict the similarity score between two images.
 
 ### 1.Face Recognition using Siamese Network on PyTorch
 Achieved by using **Siamese Network based on PyTorch**
-- This implementation is help to recognize if two faces are similar or dissimilar. 
+- This implementation is help to recognize if two faces are similar or dissimilar by calculating similarity score. 
 - This has a wide scope in security, privacy sectors. 
 - This implementation can be used by some academies to protect the account of each student
 - Many present application are like apple face id, recognizing persons in a group picture. 
@@ -73,7 +74,7 @@ Achieved by using **openCV and Python**
 - This also provides us good accuracy while detecting faces in a crowd or an individual.
 
 ## Future Plans
-We built an application(which detect if two persons are similar or disimilar and how much disimilarity they have) using siamese network. Our next step is to deploy this model. We will deploy our application in coming days.
+We built an application(which detect if two persons are similar or disimilar and provides its similarity score) using siamese network. Our next step is to deploy this model. We will deploy our application in coming days.
 
 
 ##  Contributors:
