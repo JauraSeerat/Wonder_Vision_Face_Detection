@@ -101,6 +101,7 @@ While collecting metrics is beneficial to both parties, student privacy is a maj
 - [Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/) - Suggested by @Agata [OR, USA] 
 - [Siamese Network](https://innovationincubator.com/siamese-neural-network-with-pytorch-code-example/) - Suggested by @Alejandro Galindo
 - [Face Evolve](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - Suggested by @Abhishek Tandon
+- [Image Siamese Network](https://slideplayer.com/slide/10937846/39/images/32/Network+Architecture:+Siamese+Network.jpg)
 
 ## [Meetups Updates](https://docs.google.com/document/d/1bwPe_K4xh2Awk_72c1o9JmxKXtl661ko203j7e2_VpM/edit?usp=sharing)
 
